@@ -39,7 +39,5 @@ public class Problem_19_SortedRatateArrayFindMin {
 	public static void main(String[] args) {
 		int[] test = { 4, 5, 5, 5, 1, 2, 3 };
 		System.out.println(getMin(test));
-
 	}
-
 }
