@@ -90,5 +90,12 @@ int main(int argc, char** argv) {
     cout<<"str1: "<<str1<<endl;
     cout<<"str2: "<<str2<<endl;
     cout<<lcse(str1, str2)<<endl;;
+
+    string str3 = "A1BC2D3EFGH45I6JK7LMN";
+    string str4 = "12OPQ3RST4U5V6W7XYZ";
+    cout<<"str3: "<<str3<<endl;
+    cout<<"str4: "<<str4<<endl;
+    cout<<lcse(str3, str4)<<endl;;
+
     return 0;
 }
